@@ -44,7 +44,7 @@ const figures = () => {
 
     for(let i=0; i<=2; i++){
         let img = document.createElement('img')
-        img.src = 'Material/P_Rosa.png'
+        img.src = 'Material/P_rosa.png'
         console.log(img)
 
         img.style.top = innerHeight * Math.random()+'px'
